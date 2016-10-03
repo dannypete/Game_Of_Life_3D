@@ -16,9 +16,6 @@ Xform and some Application Code
 Help with my ComboBox Issues
     http://stackoverflow.com/questions/31786980/javafx-windows-10-combobox-error
 
-/Contents/
-Executable JAR that launches the Game Of Life. Inside the JAR is source files and this README
-
 /Miscellaneous/
 Controls:
  - Left click and drag: Rotate the cube
